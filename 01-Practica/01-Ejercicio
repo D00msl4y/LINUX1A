@@ -1,0 +1,17 @@
+.-Abrir terminal de Ubuntu 
+mkdir -p ~/laboratorio-cli {docs,src,logs}
+cd lab
+poner captura de ese codigo
+finalizar ls 
+$ls
+~/laboratorio-cli$ cd ..
+primer captura mkdir01
+$ls aparecen las carpetas 
+$cd ~/laboratorio-cli/
+$ls mkdir02
+buscar carpeta laboratorio clinico
+touch docs/{guia,notas}.md src/{main, test}.py logs/app.log README.txt
+cd docsls
+se tiene que ver guia.md notas.md captura 5
+equivocaion rm nombrequeestamal  solo archivos
+carpeta -r nombrecarpeta xd
